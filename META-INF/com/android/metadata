@@ -1,0 +1,10 @@
+ota-property-files=payload_metadata.bin:4185:217063,payload.bin:4185:1615901735,payload_properties.txt:1615905978:156,apex_info.pb:2079:925,care_map.pb:3051:1087,metadata:69:685,metadata.pb:822:1209                        
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:4185:1615901735,payload_properties.txt:1615905978:156,apex_info.pb:2079:925,care_map.pb:3051:1087,metadata:69:685,metadata.pb:822:1209                          
+ota-type=AB
+post-build=Redmi/fog_global/fog:12/SKQ1.211103.001/V13.0.2.0.SGEMIXM:user/release-keys
+post-build-incremental=1664984471
+post-sdk-level=33
+post-security-patch-level=2022-09-05
+post-timestamp=1664984464
+pre-device=fog,wind,rain

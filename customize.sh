@@ -1,0 +1,10 @@
+#!/system/bin/sh
+   ui_print "************************************************"
+    ui_print " Возможна неправильная работоспособность"
+    ui_print " на различных прошивках"
+    ui_print "-----------------------------------------------"
+    ui_print " Incorrect operability is possible"
+ui_print " on various firmware"
+    ui_print "************************************************"
+    ui_print "НЕ РАБОТАЕТ НА AOSPA! | DOES NOT WORK ON AOSPA!"
+    ui_print "************************************************"
